@@ -1,0 +1,13 @@
+# NetBeans
+/nbproject/private/
+/build/
+/nbdist/
+.netbeans_automatic_hints
+
+# Build tools
+target/
+.gradle/
+
+# OS
+.DS_Store
+Thumbs.db
